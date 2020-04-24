@@ -1,6 +1,6 @@
 ---
-title: Round Icons
-subtitle: Graphic Design
+title: 맞춤형 레슨
+subtitle: 
 layout: default
 modal-id: 6
 date: 2014-07-15
@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: 수강전 상담후 원하는 과목을 조합해 만드는 맞춤형 레슨
 
 ---

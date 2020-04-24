@@ -1,6 +1,6 @@
 ---
-title: Golden
-subtitle: Website Design
+title: 한달 한곡 마스터
+subtitle: 개인별 수준 편곡
 layout: default
 modal-id: 3
 date: 2014-07-16
@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: 좋아하는 곡을 한달에 한곡씩 마스터하는 미션!<br> 첫 미팅 후 원하는 곡을 개인 연주 수준에 맞게 편곡하여 맞춤 제작!<br> 완전 초보는 기초적인 피아노 수업 후 진행.<br> 한달 후 나만의 레파토리 완성!!<br>
 
 ---

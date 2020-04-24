@@ -1,6 +1,6 @@
 ---
-title: Startup Framework
-subtitle: Website Design
+title: 작곡/편곡법
+subtitle: 전통 클래식/가요
 layout: default
 modal-id: 5
 date: 2014-07-14
@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: 클래식 작곡법- 화성학의 기본기가 다져진 상태에서 시작 가능<br> 클래식 곡 분석 및 모티브에 의한 작곡.<br> 가요 작곡법- 코드의 기본부터 배우며 음악의 구조와 이해 및 분석<br> 멜로디 작곡하기 등으로 나만의 가요 만들기 미션 수행!<br> 편곡법- 음악의 기초적 이론이 완성된 후 기존의 곡들을 편곡해 보는 작업<br> 코드 편곡, 리듬 편곡 등을 통해 단순한 곡을 나만의 곡으로 멋지게 바꾸는 수업.<br> 반주법 수업 고급과정에 이 부분이 포함됨.<br>
 
 ---

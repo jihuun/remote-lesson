@@ -1,6 +1,6 @@
 ---
-title: Escape
-subtitle: Website Design
+title: 성인 기초 피아노
+subtitle: 성인을 위한 피아노 어드벤쳐
 layout: default
 modal-id: 2
 date: 2014-07-17
@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: 클래식 피아노에 처음 도전하는 성인에게 딱 맞는 입문서!<br> 지겨운 바이엘 체르니는 가라!<br> 악보 보는 법과 코드의 개념을 동시에!<br> 고전적인 피아노 배우기 원하는 초보자에게 재밌고 유익한 수업 <br> 
 
 ---

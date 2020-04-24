@@ -1,6 +1,6 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: 피아노 반주법
+subtitle: 코드 피아노
 layout: default
 modal-id: 1
 date: 2014-07-18
@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: 악보 그대로 치는 연주법이 아닌, 코드로 연주하는 피아노!<br> CCM, pop, 가요등 반주법 총 마스터!!<br> 단선율 노래 악보만으로 멋진 연주, 애드립, 인트로, 엔딩까지<br> 원리를 알려주는 개념있는 레슨~혼자 연주할 때도 모든 곡에 응용가능!<br> 10년 이상 레슨 동영상 사이트의 강사로 활동하며 다져진 노하우 대방출!!<br> CCM반주법 교재 저자직강!! 초/중/고급<br> ->체계적인 진도, 레슨의 방향을 예측할 수 있어 개인별 목표설정 가능.<br> 가요나 팝에 바로 적용시켜 연주가능한 주법. (CCM대신 가요 등 교재의 목록 대체 가능)<br> 고급까지 수강 후 연주 뿐 아니라 편곡 능력도 키울 수 있는 진정한 멀티 연주자로 발전.<br> 레슨 1년후 어떤 곡이든 피아노 치며 노래부르고 있는 자신의 모습을 발견함!<br>
 
 ---
