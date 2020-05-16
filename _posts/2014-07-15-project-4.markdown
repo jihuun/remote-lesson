@@ -1,5 +1,5 @@
 ---
-title: 전통 화성학/음악 통론
+title: 전통 화성학/음악 이론
 subtitle: 
 layout: default
 modal-id: 4
@@ -10,6 +10,7 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: 백병동 화성학을 기본으로 전통 화성학을 배우는 시간.<br> 4성부 화성진행을 통해 클래식 음악의 화성 구조와 기능을 깊이 있게 공부할 수 있는 시간<br> 작곡과 입시 기초 다지기, 음대생의 화성학 수업에 탁월한 도움을 줄 수 있음. <br>
+description: 백병동 화성학을 기본으로 전통 화성학을 배우는 시간입니다. 4성부 화성진행을 통해 클래식 음악의 화성 구조와 기능을 깊이 있게 공부할 수 있습니다. 화성학을 반 이상 배운 후 클래식 작곡법을 배울 수 있습니다. 음악의 이론과 화성 진행이 궁금한 사람, 작곡과 입시 기초 다지기, 화성학 수업을 수강하는 음대생에게 큰 도움이 될 수 있습니다.<br><br>
+
 
 ---
