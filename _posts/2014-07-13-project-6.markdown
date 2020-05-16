@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: 수강전 상담후 원하는 과목을 조합해 만드는 맞춤형 레슨<br><img src="img/custom-lesson-path.jpg" alt="custom lesson">
+description: 수강전 상담후 원하는 과목을 조합해 만드는 맞춤형 레슨<br><br><img src="img/custom-lesson-path.jpg" class="img-responsive img-centered" alt="custom lesson"><br>
 ---
 
